@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Moksha1801
+- 👋 Hi, I’m @Mohamed Selim
 - 👀 I’m interested in programming and software engineering
 - 🌱 I’m currently learning data science and software engineering 
 - 💞️ I’m looking to collaborate on projects on software
